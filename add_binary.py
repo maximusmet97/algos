@@ -1,5 +1,5 @@
 #https://leetcode.com/problems/add-binary/description/
-
+# TEST
 def add_binary(bin_a,bin_b):
     result = "" 
     remainder = 0
